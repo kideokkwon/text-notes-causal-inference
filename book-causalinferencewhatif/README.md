@@ -2,7 +2,7 @@
 
 [Link to Free Textbook](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 
-This textbook was one of the first introductions to Causal Inference. During the time I was introduced to this text, my understanding of causal inference was minimal; For example, I knew that there existed something called "propensity score matching" and that it was very popular but also heard that there were criticisms for it. 
+This textbook was one of my first introductions to Causal Inference. During the time I was introduced to this text, my understanding of causal inference was minimal; For example, I knew that there existed something called "propensity score matching" and that it was very popular but also heard that there were criticisms for it. 
 
 As you may expect, while I did extract plenty of useful information in my first run of the book, there were also a lot of details I missed. When reading a textbook for the first time, especially one that focuses deeply on breadth, it can be difficult to know which concepts to focus on more out of the dozens introduced. Subconciously (just based on my limited prior knowledge of causal inference), I had an overemphasis on concepts like DAGs (Ch.6) and Matching (Ch.15), which are extremely important topics and I am glad I learned them (which led to their own deep rabbit holes, especially with Matching), but I didn't focus really at all on other important topics such as g-formula, time-varying treatments, and marginal structural models (although to be fair, these 3 are all intrinsically linked). 
 

@@ -1,7 +1,3 @@
 # text-notes
 
-notes for papers and textbooks. So far I've documented it on Notion, but thought I'd start doing it here instead
-
-I try to only include the most important parts of each paper to not make it too long. 
-
-Those that are in folders are textbooks, and inside them are typically a chapter-per-notebook format. 
+brief notes of papers that i felt i may reference again in the future for work

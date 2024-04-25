@@ -8,3 +8,5 @@ topics covered:
 - causal survival analyses
 - heterogenous treatment effects
 - g-computation
+- sensitivity analyses
+- DAGs
